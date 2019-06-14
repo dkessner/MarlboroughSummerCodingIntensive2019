@@ -1,6 +1,6 @@
-__Summer Coding Intensive__
-__June 10-14, 2019__
-__Marlborough School, Los Angeles__
+__Summer Coding Intensive__  
+__June 10-14, 2019__  
+__Marlborough School, Los Angeles__  
 
 The students worked on some great video game projects at this year's Summer
 Coding Intensive, part of 
