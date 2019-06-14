@@ -6,34 +6,34 @@ The students worked on some great video game projects at this year's Summer
 Coding Intensive, part of 
 [Marlborough Summer School](https://www.marlboroughsummer.org/)!
 
-![](abigail_300.png)
+![](pix/abigail_300.png)
 [abigail](abigail)
 
-![](casey_300.png)
+![](pix/casey_300.png)
 [casey](casey)
 
-![](grace_300.png)
+![](pix/grace_300.png)
 [grace](grace)
 
-![](jina_300.png)
+![](pix/jina_300.png)
 [jina](jina)
 
-![](jordana_300.png)
+![](pix/jordana_300.png)
 [jordana](jordana)
 
-![](kate_300.png)
+![](pix/kate_300.png)
 [kate](kate)
 
-![](madison_300.png)
+![](pix/madison_300.png)
 [madison](madison)
 
-![](max_300.png)
+![](pix/max_300.png)
 [max](max)
 
-![](nikki_300.png)
+![](pix/nikki_300.png)
 [nikki](nikki)
 
-![](ophelia_300.png)
+![](pix/ophelia_300.png)
 [ophelia](ophelia)
 
 
