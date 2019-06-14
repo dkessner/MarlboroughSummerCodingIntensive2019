@@ -1,5 +1,6 @@
 __Summer Coding Intensive__  
 __June 10-14, 2019__  
+__Dr. Darren Kessner__  
 __Marlborough School, Los Angeles__  
 
 The students worked on some great video game projects at this year's Summer
